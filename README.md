@@ -52,9 +52,9 @@ I Guess This Will Be Usefull For Many People.....😇.
 **Check This Tutorial Video on YouTube for any Help**<br>
 **Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
-#### Deploy to Railway
+#### Deploy in Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FArjunkrishnaak%2FFile-Sharing-Bot&envs=ADMINS%2CAPI_HASH%2CAPP_ID%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CFORCE_SUB_MESSAGE%2COWNER_ID%2CSTART_MESSAGE%2CTG_BOT_TOKEN&TG_BOT_TOKENDesc=from+botfather+&FORCE_SUB_MESSAGEDefault=Hello+%7Bfirst%7D++%3Cb%3EYou+need+to+join+in+my+Channel%2FGroup+to+use+me&START_MESSAGEDefault=Hai+%7Bfirst%7D++Iam+a+file+store+bot+from+%40Request_flix.&referralCode=Lvx2)
-#### Deploy in your VPS
+#### Deploy in VPS
 ````bash
 git clone https://github.com/CodeXBotz/File-Sharing-Bot
 cd File-Sharing-Bot
