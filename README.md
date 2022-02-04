@@ -1,3 +1,12 @@
+[![DEPLOY TO HERUKO](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arjunkrishnaak/File-Sharing-Bot)
+
+
+
+
+
+
+
+
 # File-sharing-Bot
 
 <p align="center">
@@ -43,14 +52,6 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 ### Installation
-#### Deploy on Heroku
-**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-<a href="https://youtu.be/LCrkRTMkmzE">
-  <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
-</a><br>
-**Check This Tutorial Video on YouTube for any Help**<br>
-**Thanks to [Erich](https://t.me/ErichDaniken) and his [InFoTel](https://t.me/InFoTel_Group) for this Video**
 
 #### Deploy in Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FArjunkrishnaak%2FFile-Sharing-Bot&envs=ADMINS%2CAPI_HASH%2CAPP_ID%2CCHANNEL_ID%2CFORCE_SUB_CHANNEL%2CFORCE_SUB_MESSAGE%2COWNER_ID%2CSTART_MESSAGE%2CTG_BOT_TOKEN&TG_BOT_TOKENDesc=from+botfather+&FORCE_SUB_MESSAGEDefault=Hello+%7Bfirst%7D++%3Cb%3EYou+need+to+join+in+my+Channel%2FGroup+to+use+me&START_MESSAGEDefault=Hai+%7Bfirst%7D++Iam+a+file+store+bot+from+%40Request_flix.&referralCode=Lvx2)
